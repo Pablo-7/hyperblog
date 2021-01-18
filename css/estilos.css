@@ -9,3 +9,11 @@ p{
 font-family: cursive;
 
 }
+
+h2{
+	font-size: 40px;
+	text-align: left;
+	font-weight: 800;
+	color: blue;
+
+}
