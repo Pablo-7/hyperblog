@@ -1,19 +1,30 @@
 body {
 	font-family: Lato;
-	color: red;
-	text-align: center;
+	color:#333333;
+	text-align: left;
+	margin: 0 auto;
+
 }
 
-p{
-	font-size: 40px;
-font-family: cursive;
+#contenedor {
+	border: 1px solid;
+	width: 80%;
+	padding: 5%;
+	margin: 5%;
+	
+}
 
+h1{
+	font-size: 18px;
+	font-weight: 800;
 }
 
 h2{
-	font-size: 40px;
-	text-align: left;
-	font-weight: 800;
-	color: blue;
+	font-size: 28px;
+	font-weight: 900;
+}
+
+p{
+	font-size: 14px;
 
 }
