@@ -12,6 +12,14 @@ body {
 	margin: 5%;
 }
 
+#cabecera3{
+	background: blue;
+	color: #ffffff;
+	font-size: 22;
+	font-weight: bold;
+	padding: 10px;
+}
+
 h1{
 	font-size: 18px;
 	font-weight: 800;
